@@ -1,6 +1,6 @@
 # Write your code here
 count = 10
-while do
+while count != 0 do
   
 end
 puts "Happy New Year!"
